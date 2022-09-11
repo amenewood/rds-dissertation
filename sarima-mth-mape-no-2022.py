@@ -1,5 +1,6 @@
-# grid search sarima hyperparameters for a trending & seasonal dataset
-# adapted from original script at https://machinelearningmastery.com/how-to-grid-search-sarima-model-hyperparameters-for-time-series-forecasting-in-python/
+# grid search of orders for sarima model parameters for a trending & seasonal dataset
+# adapted from the original script at https://machinelearningmastery.com/how-to-grid-search-sarima-model-hyperparameters-for-time-series-forecasting-in-python/
+
 from math import sqrt
 from multiprocessing import cpu_count
 from joblib import Parallel
