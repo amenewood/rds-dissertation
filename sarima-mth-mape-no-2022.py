@@ -1,6 +1,6 @@
 # grid search of orders for sarima model parameters for a trending & seasonal dataset
 # adapted from the original script at https://machinelearningmastery.com/how-to-grid-search-sarima-model-hyperparameters-for-time-series-forecasting-in-python/
-# script output located at 
+# script output located at https://github.com/amenewood/rds-dissertation/blob/main/Terminal%20Saved%20Output%20v2.txt
 
 from math import sqrt
 from multiprocessing import cpu_count
